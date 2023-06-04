@@ -8,6 +8,7 @@ public class TestProjectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestProjectApplication.class, args);
+        System.out.println("THIS IS ONLY TEST PROJECT. DO NOT CHANGE ANYTHING WITHIN IT!");
     }
 
 }
